@@ -37,6 +37,7 @@ Other goals:
   - Read more books 
   - Write more on paper
   - Study a metaheuristic mathematic algoritm
+  - Finish my Swedish Duolingo course
 
 <!--
 **arenac/arenac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
